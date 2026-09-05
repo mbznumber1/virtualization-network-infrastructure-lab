@@ -52,7 +52,7 @@ The Cisco core switch provides inter-VLAN routing and access control.
 DHCP is centralized on Windows Server 2016, with DHCP relay configured
 on the client VLANs.
 
-![Project Screenshot](screenshots/networking/network-topology-03.png)
+![Project Screenshot](screenshots/networking/network-topology-03.jpg)
 
 ## Windows Server & Active Directory
 
