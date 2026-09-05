@@ -17,6 +17,8 @@ virtualization concepts in a controlled environment.
 > This environment is not production infrastructure and has not been
 > validated for production use.
 
+![Project Screenshot](screenshots/architecture/network-topology-01.png)
+
 ## Architecture
 
 The lab consists of:
@@ -28,6 +30,8 @@ The lab consists of:
 - Windows Server 2016
 - EVE-NG 6.2 for Cisco network emulation
 - Cisco L2/L3 network architecture
+
+![Project Screenshot](screenshots/architecture/network-topology-02.png)
 
 ## Network Design
 
@@ -47,6 +51,8 @@ The Cisco core switch provides inter-VLAN routing and access control.
 
 DHCP is centralized on Windows Server 2016, with DHCP relay configured
 on the client VLANs.
+
+![Project Screenshot](screenshots/networking/network-topology-03.png)
 
 ## Windows Server & Active Directory
 
